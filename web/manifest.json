@@ -1,6 +1,6 @@
 {
-    "name": "Tic Tac Toe",
-    "short_name": "Tic Tac Toe",
+    "name": "Neon Mind Arena",
+    "short_name": "Neon Mind Arena",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
