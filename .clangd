@@ -1,0 +1,4 @@
+If:
+  PathMatch: [.*windows/.*, .*linux/.*]
+Diagnostics:
+  Suppress: ["*"]
