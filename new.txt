@@ -1,0 +1,1 @@
+ a multi-game platform (adding games like Checkers, Connect 4, Memory Match, Chess, etc.), 

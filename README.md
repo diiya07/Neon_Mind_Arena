@@ -11,13 +11,13 @@ Welcome to **Neon Mind Arena**, a premium competitive brain-game platform built 
 ## 📸 Screenshots
 
 ### 1. Main Dashboard & Menu (Desktop Web / Tablet Layout)
-![Main Dashboard](menu_screenshot.png)
+![Main Dashboard](screenshots/menu_screenshot.png)
 
 ### 2. Active Game Board (Side-by-Side Wide Layout)
-![Active Gameplay](gameplay_screenshot.png)
+![Active Gameplay](screenshots/gameplay_screenshot.png)
 
 ### 3. Daily Challenges
-![Daily Challenges](challenge_screenshot.png)
+![Daily Challenges](screenshots/challenge_screenshot.png)
 
 ---
 
