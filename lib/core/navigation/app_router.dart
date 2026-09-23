@@ -10,9 +10,15 @@ import 'package:tictactoe/features/home/screens/online_lobby_screen.dart';
 import 'package:tictactoe/features/home/screens/online_game_screen.dart';
 import 'package:tictactoe/features/game/controllers/online_game_controller.dart';
 
+import 'package:tictactoe/features/splash/screens/splash_screen.dart';
+
 final GoRouter appRouter = GoRouter(
-  initialLocation: '/',
+  initialLocation: '/splash',
   routes: [
+    GoRoute(
+      path: '/splash',
+      builder: (context, state) => const SplashScreen(),
+    ),
     GoRoute(
       path: '/',
       builder: (context, state) => const HomeScreen(),
